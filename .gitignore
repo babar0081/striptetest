@@ -1,0 +1,21 @@
+# Font files
+app/fonts/*.woff
+app/fonts/*.woff2
+
+# Icon files
+app/favicon.ico
+
+# Environment files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build files
+.next/
+out/
+build/
+dist/
+
+# Dependencies
+node_modules/
